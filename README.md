@@ -1,7 +1,5 @@
 # ADSJ Grade encoder
 
-Chrome extension for OLFU AIMS grading sheet that helps you:
-
 - Unlock PRELIM / MIDTERM / FINAL grade cells
 - Generate Excel template
 - Upload grades by selected period (Prelim, Midterm, Final)

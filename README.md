@@ -1,5 +1,3 @@
-# ADSJ Grade encoder
-
 - Unlock PRELIM / MIDTERM / FINAL grade cells
 - Generate Excel template
 - Upload grades by selected period (Prelim, Midterm, Final)

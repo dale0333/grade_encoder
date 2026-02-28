@@ -681,7 +681,7 @@
     el.id  = '_aPanel';
     el.innerHTML =
       '<div class="ah">' +
-        '<div class="ah-title">📊 ADSJ Grade encoder <span class="ah-badge">v5.0</span></div>' +
+        '<div class="ah-title">📊 ADSJ Grade encoder <span class="ah-badge">1.0</span></div>' +
         '<button class="ah-x" id="_aX">✕</button>' +
       '</div>' +
       '<div class="ab">' +
